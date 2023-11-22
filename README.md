@@ -1,1 +1,1 @@
-# bam.application
+# bam.app
