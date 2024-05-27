@@ -4,9 +4,9 @@ using System.IO;
 using System.Reflection;
 using System.Text;
 using Bam.Data;
-using Bam.Net;
-using Bam.Net.Configuration;
-using Bam.Net.Data.Repositories;
+using Bam;
+using Bam.Configuration;
+using Bam.Data.Repositories;
 
 namespace Bam.Application
 {
